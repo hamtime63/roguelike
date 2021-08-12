@@ -1,14 +1,14 @@
-sphinx
-sphinx-autodoc-typehints
-sphinx-rtd-theme
-wheel
-black
-pytest
-coveralls
-flake8
-pytest-cov
-pytest-mock
-pre-commit
-arcade
-pyglet
-mypy
+import sphinx
+import sphinx-autodoc-typehints
+import sphinx-rtd-theme
+import wheel
+import black
+import pytest
+import coveralls
+import flake8
+import pytest-cov
+import pytest-mock
+import pre-commit
+import arcade
+import pyglet
+import mypy
